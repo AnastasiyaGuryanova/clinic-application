@@ -16,8 +16,6 @@
 
 
 Данные для входа администратора
+
 Email: operator@clinic.com
 Пароль: password
-
-Создайте файл .env в корне проекта и добавьте следующие переменные:
-MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/clinic?retryWrites=true&w=majority
