@@ -6,17 +6,10 @@
 
 Приложение построено с использованием следующих технологий:
 
-- **Frontend**: Чистый JavaScript, HTML, CSS с использованием библиотеки **Tailwind CSS**
-- **Backend**: Node.js, Express.js, MongoDB
-- **Библиотеки**:
-  - `mongoose` для работы с MongoDB
-  - `validator` для валидации данных
-  - `bcryptjs` для хеширования паролей
-  - `jsonwebtoken` для авторизации с помощью JWT
-
-
-## Данные для тестового входа в систему управления заявками
-
-Для тестирования системы используйте следующие учетные данные администратора:
-- Почта: mailto:operator@clinic.com
-- Пароль: password
+-   **Frontend**: Чистый JavaScript, HTML, CSS с использованием библиотеки **Tailwind CSS**
+-   **Backend**: Node.js, Express.js, MongoDB
+-   **Библиотеки**:
+    -   `mongoose` для работы с MongoDB
+    -   `validator` для валидации данных
+    -   `bcryptjs` для хеширования паролей
+    -   `jsonwebtoken` для авторизации с помощью JWT
